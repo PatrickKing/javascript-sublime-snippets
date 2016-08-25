@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-describe("${1:something}", function(done){
+describe("${1:something}", function (done) {
   ${2:}
 });
 ]]></content>

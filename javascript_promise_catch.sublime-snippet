@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-catch(${1:errorType}, function(error){
+catch(${1:errorType}, function (error) {
   ${2:}
 })
 ]]></content>
